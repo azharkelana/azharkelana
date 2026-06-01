@@ -16,12 +16,8 @@ Selamat datang di profil GitHub saya.
 
 ## 📌 Fokus Saat Ini
 - Meningkatkan kualitas kode dan arsitektur aplikasi
-- Membangun project yang clean, scalable, dan mudah di-maintain
+- Membangun proyek yang rapi, scalable, dan mudah dipelihara
 - Belajar best practice deployment dan CI/CD
-
-## 📫 Kontak
-- GitHub: [@azharkelana](https://github.com/azharkelana)
-- Email: **your.email@example.com**
 
 ---
 ⭐ Terima kasih sudah mampir ke profil saya!
