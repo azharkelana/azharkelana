@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Azhar Kelana 👋
 
-<!--
-**azharkelana/azharkelana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di profil GitHub saya.
 
-Here are some ideas to get you started:
+## 🚀 Tentang Saya
+- 💻 Tertarik pada pengembangan web dan software engineering
+- 🌱 Sedang terus belajar teknologi modern untuk backend dan frontend
+- 🤝 Terbuka untuk kolaborasi pada project yang bermanfaat
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+- **Languages:** JavaScript, TypeScript, Python
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Database:** MySQL, PostgreSQL
+- **Tools:** Git, Docker, VS Code
+
+## 📌 Fokus Saat Ini
+- Meningkatkan kualitas kode dan arsitektur aplikasi
+- Membangun proyek yang rapi, scalable, dan mudah dipelihara
+- Belajar best practice deployment dan CI/CD
+
+---
+⭐ Terima kasih sudah mampir ke profil saya!
